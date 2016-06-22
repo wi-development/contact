@@ -1,0 +1,21 @@
+{
+    "name": "wi-development/contact",
+    "description": "Contact Test Package",
+	"url":"#https://github.com/wi-development/contact",
+    "keywords": ["framework", "laravel"],
+    "license": "MIT",
+    "type": "project",
+	"minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Tonny Wijnand",
+            "email": "tonnywijnand@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "WI\\Contact\\": "src"
+        }
+    },
+    "require": {}
+}
