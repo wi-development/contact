@@ -17,5 +17,7 @@
             "WI\\Contact\\": "src"
         }
     },
-    "require": {}
+    "require": {
+    	"A": "dev-master"
+    }
 }
