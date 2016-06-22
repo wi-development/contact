@@ -19,5 +19,8 @@
     },
     "require": {
     	"A": "dev-master"
+    },
+    "require-dev": {
+    	"A": "dev-master"
     }
 }
